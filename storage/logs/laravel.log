@@ -1,0 +1,5 @@
+[2022-12-01 10:12:36] local.ERROR: Call to a member function send() on null {"exception":"[object] (Error(code: 0): Call to a member function send() on null at /var/www/html/hasMiddleWare/public/index.php:53)
+[stacktrace]
+#0 /var/www/html/hasMiddleWare/vendor/laravel/framework/src/Illuminate/Foundation/resources/server.php(16): require_once()
+#1 {main}
+"} 
